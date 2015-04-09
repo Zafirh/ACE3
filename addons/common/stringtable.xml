@@ -279,6 +279,7 @@
     </Key>
     <Key ID="STR_ACE_Common_Unknown">
       <English>Unknown</English>
+      <French>Inconnu</French>
       <German>Unbekannt</German>
       <Spanish>Desconocido</Spanish>
       <Polish>Nieznany</Polish>
@@ -288,6 +289,7 @@
     </Key>
     <Key ID="STR_ACE_Common_NoVoice">
       <English>No Voice</English>
+      <French>Sans voix</French>
       <German>Keine Stimme</German>
       <Spanish>Sin voz</Spanish>
       <Polish>Brak głosu</Polish>
@@ -299,33 +301,41 @@
       <Polish>Akceptuj prośby</Polish>
       <Spanish>Aceptar Peticiones</Spanish>
       <English>Accept Requests</English>
+      <French>Accepter la requête</French>
     </Key>
     <Key ID="STR_ACE_ACTION_DECLINE_REQUEST_KEY_TITLE">
       <Polish>Ignoruj prośby</Polish>
       <Spanish>Rechazar Peticiones</Spanish>
       <English>Decline Requests</English>
+      <French>Refuser la requête</French>
     </Key>
     <Key ID="STR_ACE_ACTION_ACCEPT_REQUEST_KEY_TOOLTIP">
       <Polish>Akceptuj prośby wysłane przez innych graczy. Akceptacji wymagają między innymi akcje używania / współdzielenia wyposażenia, wykonywania określonych czynności.</Polish>
       <Spanish>Acepta Peticiones de otros jugadores. Pueden ser solicitudes para usar / compartir equipamiento, realizar ciertas acciones.</Spanish>
       <English>Accept Requests send by other players. These can be requests to use / share equipment, perform certain actions.</English>
+      <French>Accepter les requête envoyées par les autres joueurs. Elles peuvent etre des demande d'utiliser/partager de l'équipement ou réaliser certaines actions.</French>
     </Key>
     <Key ID="STR_ACE_ACTION_DECLINE_REQUEST_KEY_TOOLTIP">
       <Polish>Ignoruj prośby wysłane przez innych graczy. Akceptacji wymagają między innymi akcje używania / współdzielenia wyposażenia, wykonywania określonych czynności.</Polish>
       <Spanish>Rechazar Peticiones de otros jugadores. Pueden ser solicitudes para usar / compartir equipamiento, realizar ciertas acciones.</Spanish>
       <English>Decline Requests send by other players. These can be requests to use / share equipment, perform certain actions.</English>
+      <French>Refuser les requête envoyés par les autres joueurs. Elles peuvent etre des demande d'utiliser/partager de l'équipement ou réaliser certaines actions.</French>
+      
     </Key>
     <Key ID="STR_ACE_Common_SettingFeedbackIconsName">
       <English>Feedback icons</English>
+      <French>Icônes Feedback</French>
     </Key>
     <Key ID="STR_ACE_Common_SettingFeedbackIconsDesc">
       <English>Select the position of or disable the feedback icons on your screen. These icons will show to provide extra feedback on your character status and actions performed.</English>
     </Key>
     <Key ID="STR_ACE_Common_SettingProgressbarLocationName">
       <English>Progress bar location</English>
+      <French>Emplacement de la barre de progression</French>
     </Key>
     <Key ID="STR_ACE_Common_SettingProgressbarLocationDesc">
       <English>Set the desired location of the progress bar on your screen.</English>
+      <French>Definissez l'emplacement voulu de la barre de progression sur votre écran.</French>
     </Key>
     <Key ID="STR_ACE_Common_SettingDisplayTextColorName">
       <English>Hint Background color</English>
@@ -341,9 +351,11 @@
     </Key>
     <Key ID="STR_ACE_Common_bananaDisplayName">
       <English>Banana</English>
+      <French>Banane</French>
     </Key>
     <Key ID="STR_ACE_Common_bananaDescr">
       <English>A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa.</English>
+      <French>La banane est un fruit (une baie, botaniquement) commestible, qui pousse sur differents types [Don't know how to translate the end of it]</French>
     </Key>
   </Package>
 </Project>
