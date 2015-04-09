@@ -199,7 +199,7 @@
             <German>Erlaubt die Entschärfung von Sprengstoffen</German>
             <Spanish>Permite desactivar explosivos</Spanish>
             <Polish>Umożliwia rozbrajanie ładunków wybuchowych</Polish>
-            <French>Permet de désamorçer des explosifs</French>
+            <French>Permet de désamorcer des explosifs</French>
             <Czech>Dovoluje zneškodňování výbušnin</Czech>
             <Italian>Consente la disattivazione degli ordigni esplosivi</Italian>
             <Hungarian>Robbanóanyagok hatástalanításához</Hungarian>
@@ -223,7 +223,7 @@
             <German>Löschen</German>
             <Spanish>Borrar</Spanish>
             <Polish>Usuń</Polish>
-            <French>Désamorçé</French>
+            <French>Désamorcer</French>
             <Czech>Čistý</Czech>
             <Italian>Libera</Italian>
             <Hungarian>Törlés</Hungarian>
@@ -307,7 +307,7 @@
             <German>Entschärfen</German>
             <Spanish>Desactivar</Spanish>
             <Polish>Rozbrój</Polish>
-            <French>Désamorçer</French>
+            <French>Désamorcer</French>
             <Czech>Zneškodnit</Czech>
             <Italian>Disinnesca</Italian>
             <Hungarian>Hatástalanítás</Hungarian>
@@ -331,7 +331,7 @@
             <German>Zeitzünder</German>
             <Spanish>Temporizador</Spanish>
             <Polish>Czasomierz</Polish>
-            <French>Retard</French>
+            <French>Compte à rebours</French>
             <Czech>Časovač</Czech>
             <Italian>Cronometro</Italian>
             <Hungarian>Időzített</Hungarian>
@@ -355,7 +355,7 @@
             <German>Zeit einstellen</German>
             <Spanish>Configurar tiempo</Spanish>
             <Polish>Ustaw czas</Polish>
-            <French>Régler retard</French>
+            <French>Régler compte à rebours</French>
             <Czech>Nastavit Čas</Czech>
             <Italian>Modifica il conto alla rovescia</Italian>
             <Hungarian>Idő állítása</Hungarian>
@@ -367,7 +367,7 @@
             <German>Wähle einen Zünder</German>
             <Spanish>Seleccionar un disparador</Spanish>
             <Polish>Wybierz zapalnik</Polish>
-            <French>Sélectionner une mise à feu</French>
+            <French>Sélectionner un dispositif de mise à feu</French>
             <Czech>Zvolit Detonátor</Czech>
             <Italian>Seleziona un Attivatore</Italian>
             <Hungarian>Detonátor kiválasztása</Hungarian>
