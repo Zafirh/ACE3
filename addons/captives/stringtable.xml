@@ -111,7 +111,7 @@
     <Key ID="STR_ACE_Captives_FriskMenuHeader">
       <English>Inventory of frisked person</English>
       <German>Inventar der durchsuchten Person</German>
-      <French>Inventaire de la fouille</French>
+      <French>Inventaire de la personne fouillée</French>
       <Spanish>Inventario de la persona cacheada</Spanish>
       <Hungarian>Motozott személy felszerelése</Hungarian>
       <Czech>Inventář prohledávané osoby</Czech>
@@ -122,7 +122,7 @@
     <Key ID="STR_ACE_Captives_FriskPerson">
       <English>Frisk person</English>
       <German>Person durchsuchen</German>
-      <French>Fouiller</French>
+      <French>Fouiller la personne</French>
       <Spanish>Cachear</Spanish>
       <Czech>Prohledávaná osoba</Czech>
       <Polish>Rewiduj osobę</Polish>
@@ -132,22 +132,27 @@
     </Key>
     <Key ID="STR_ACE_Captives_StartSurrendering">
       <English>Surrender</English>
+      <French>Se rendre</French>
       <German>Kapitulieren</German>
     </Key>
     <Key ID="STR_ACE_Captives_StopSurrendering">
       <English>Stop Surrendering</English>
+      <French>Arrêter de se rendre</French>
       <German>Den Kampf erneut aufnehmen</German>
     </Key>
     <Key ID="STR_ACE_Captives_Zeus_OnlyAlive">
       <English>Only use on alive units</English>
+      <French>Utile uniquement sur les unités vivantes</French>
       <German>Nur bei lebenden Einheiten verwendbar</German>
     </Key>
     <Key ID="STR_ACE_Captives_Zeus_OnlyInfentry">
       <English>Only use on dismounted inf</English>
+      <French>Ne s'utilise que sur des infanteries à pieds</French>
       <German>Nur bei abgesessener Infanterie verwendbar</German>
     </Key>
     <Key ID="STR_ACE_Captives_Zeus_NothingSelected">
       <English>Nothing under mouse</English>
+      <French>Rien sous le curseur</French>
       <German>Es wurde nichts ausgewählt</German>
     </Key>
   </Package>
