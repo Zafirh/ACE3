@@ -9,7 +9,7 @@
       <Polish>Stopery do uszu</Polish>
       <Czech>Špunty</Czech>
       <Russian>Беруши</Russian>
-      <French>Bouchons Anti-Bruits</French>
+      <French>Bouchons d'oreille</French>
       <Hungarian>Füldugó</Hungarian>
       <Portuguese>Protetor auricular</Portuguese>
       <Italian>Tappi auricolari</Italian>
@@ -21,7 +21,7 @@
       <Polish>Stopery do uszu umożliwiają użytkownikowi przebywać w pobliżu głośnej broni bez poniesienia konsekwencji jaką jest utrata słuchu.</Polish>
       <Czech>Ochranné špunty umožňují uživateli, aby neutrpěl zranění jeho sluchu v blízkosti hlasitých zbraní.</Czech>
       <Russian>Беруши позволяют избежать потери слуха при близкой громкой стрельбе.</Russian>
-      <French>Bouchons Anti-Bruits pour la prévention des traumatismes sonores aigus.</French>
+      <French>Bouchons d'oreilles pour la prévention des traumatismes sonores aigus dus au tir d'armes lourdes.</French>
       <Hungarian>Erősebb hanghatásoktól védő füldugó, megakadályozza a nagy hanggal járó fegyverzettől való halláskárosodást.</Hungarian>
       <Portuguese>Protetor para ouvidos permitem que o usuário esteja próximo a ruídos sem danificar sua audição.</Portuguese>
       <Italian>Proteggono l'apparato uditivo, permettendo a chi li indossa di resistere ai suoni particolarmente forti senza alcun danno.</Italian>
@@ -81,7 +81,7 @@
       <Polish>Nie masz stoperów</Polish>
       <Czech>Nemáš žádné špunty</Czech>
       <Russian>У вас нет беруш</Russian>
-      <French>Vous n'avez pas de Bouchons Anti-Bruits</French>
+      <French>Vous n'avez pas de Bouchons d'oreille</French>
       <Hungarian>Nincs füldugód</Hungarian>
       <Portuguese>Você não possui protetores auriculares</Portuguese>
       <Italian>Non hai i tappi auricolari</Italian>
@@ -100,7 +100,9 @@
     </Key>
     <Key ID="STR_ACE_Hearing_DisableEarRinging">
       <English>Disable ear ringing</English>
+      <French>Desactiver le sifflement d'oreille</French>
       <Spanish>Desactivar zumbido de oídos</Spanish>
+      
     </Key>
   </Package>
 </Project>
